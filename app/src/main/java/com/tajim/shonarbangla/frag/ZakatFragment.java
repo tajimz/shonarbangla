@@ -9,7 +9,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
 
-import com.tajim.shonarbangla.R;
 import com.tajim.shonarbangla.databinding.FragmentZakatBinding;
 import com.tajim.shonarbangla.others.CONSTANTS;
 
